@@ -5,8 +5,6 @@ import { motion } from "framer-motion";
 import UserForm from "@/components/UserForm";
 import PlanView from "@/components/PlanView";
 
-
-
 /**
  * Page layout: vertical. Theme toggle here controls [data-theme] on <html>.
  * Light L2 is a bright gradient which is set when data-theme="light".
